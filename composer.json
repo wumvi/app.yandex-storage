@@ -1,0 +1,16 @@
+{
+  "name": "wumvi/yandex-storage",
+  "description": "Yandex Storage",
+  "library": "app",
+  "require": {
+    "wumvi/yandex-disk-api": "^1.0.4",
+    "nategood/commando": "*"
+  },
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Kozlenko Vitaliy",
+      "role": "Developer"
+    }
+  ]
+}
