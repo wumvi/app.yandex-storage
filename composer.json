@@ -3,10 +3,10 @@
   "description": "Yandex Storage",
   "library": "app",
   "require": {
-    "wumvi/yandex-disk-api": "^1.0.4",
+    "wumvi/yandex-disk-api": "^1.0.13",
     "nategood/commando": "*"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Kozlenko Vitaliy",

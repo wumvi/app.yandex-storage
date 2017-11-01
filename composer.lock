@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "860b5270220033ac41bb1be8fdc84092",
+    "content-hash": "3b72c566cde500adfdc44bccf7d7366b",
     "packages": [
         {
             "name": "kevinlebrun/colors.php",
@@ -105,16 +105,16 @@
         },
         {
             "name": "wumvi/lightweight-curl",
-            "version": "1.0.4",
+            "version": "1.0.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wumvi/lightweight-curl.git",
-                "reference": "4c5f197cb69467e4697ef4a0f3e8a9e802796c98"
+                "reference": "a184d2c544f038b531b0d5cbe4b9d5ae6224aa34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wumvi/lightweight-curl/zipball/4c5f197cb69467e4697ef4a0f3e8a9e802796c98",
-                "reference": "4c5f197cb69467e4697ef4a0f3e8a9e802796c98",
+                "url": "https://api.github.com/repos/wumvi/lightweight-curl/zipball/a184d2c544f038b531b0d5cbe4b9d5ae6224aa34",
+                "reference": "a184d2c544f038b531b0d5cbe4b9d5ae6224aa34",
                 "shasum": ""
             },
             "type": "library",
@@ -131,24 +131,24 @@
                 }
             ],
             "description": "LightweightCurl Curl library",
-            "time": "2017-10-29T22:36:06+00:00"
+            "time": "2017-11-01T13:56:07+00:00"
         },
         {
             "name": "wumvi/yandex-disk-api",
-            "version": "1.0.6",
+            "version": "1.0.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wumvi/yandex-disk-api.git",
-                "reference": "9b4d25cdaa4c5c633081bd052a8b2b67895180e6"
+                "reference": "01119febb41d3095cde8e52e99f26b5f35fa199f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wumvi/yandex-disk-api/zipball/9b4d25cdaa4c5c633081bd052a8b2b67895180e6",
-                "reference": "9b4d25cdaa4c5c633081bd052a8b2b67895180e6",
+                "url": "https://api.github.com/repos/wumvi/yandex-disk-api/zipball/01119febb41d3095cde8e52e99f26b5f35fa199f",
+                "reference": "01119febb41d3095cde8e52e99f26b5f35fa199f",
                 "shasum": ""
             },
             "require": {
-                "wumvi/lightweight-curl": "^1.0.4"
+                "wumvi/lightweight-curl": "^1.0.13"
             },
             "require-dev": {
                 "phpunit/phpunit": "6.4"
@@ -167,7 +167,7 @@
                 }
             ],
             "description": "Yandex Disk Api",
-            "time": "2017-10-30T13:29:48+00:00"
+            "time": "2017-11-01T13:58:26+00:00"
         }
     ],
     "packages-dev": [],
