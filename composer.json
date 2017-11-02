@@ -3,7 +3,7 @@
   "description": "Yandex Storage",
   "library": "app",
   "require": {
-    "wumvi/yandex-disk-api": "^1.0.13",
+    "wumvi/yandex-disk-api": "^1.0.14",
     "nategood/commando": "*"
   },
   "version": "1.0.1",

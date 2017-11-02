@@ -2,7 +2,7 @@
 
 use YandexDiskApi\Disk;
 
-include './vendor/autoload.php';
+include __DIR__ . '/vendor/autoload.php';
 
 $cmdParam = new Commando\Command();
 $cmdParam->option('src')
